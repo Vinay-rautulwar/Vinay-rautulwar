@@ -38,6 +38,9 @@
 </p>
 
 ---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Full+Stack+Developer;Open+Source+Lover;Tech+Enthusiast)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
 
 ### 🧠 Quote
 > "Code. Learn. Build. Repeat."
