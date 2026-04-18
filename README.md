@@ -8,7 +8,7 @@ Comfortable with Web Development, Python, Java, and Cloud fundamentals
 Strong interest in open source, clean UI, and problem solving
 Fun fact: I turn coffee into code and ideas into projects
 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a> <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter / X" /> </a> <a href="mailto:vinayrautulwar@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Email" /> </a> </p> <p align="center"> Replace <code>YOUR_LINKEDIN_USERNAME</code> and <code>YOUR_TWITTER_USERNAME</code> with your real profile links. </p>
+<p align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a> <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter / X" /> </a> <a href="mailto:vinayrautulwar@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Email" /> </a> </p> 
 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,mongodb,git,github,linux,docker&perline=6" alt="Tech stack" /> </p>
 GitHub Analytics
