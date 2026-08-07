@@ -98,7 +98,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vinay-rautulwar/Vinay-rautulwar/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Vinay-rautulwar/Vinay-rautulwar/output/github-contribution-grid-snake-dark.svg"  width="100%"/>
 </p>
 
 ---
