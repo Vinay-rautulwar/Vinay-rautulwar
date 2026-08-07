@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=300&section=header&text=VINAY%20RAUTULWAR&fontSize=45&fontColor=00F5FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20ML%20Explorer%20|%20IoT%20Builder&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=300&section=header&text=VINAY%20RAUTULWAR&fontSize=45&fontColor=00F9FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20ML%20Explorer%20|%20IoT%20Builder&descAlignY=60&descSize=18"/>
 
-<h1 align="center">Hi 👋, I'm Vinay Rautulwar</h1>
+<h1 align="center">HOLA, I'm Vinay Rautulwar</h1>
 <h3 align="center">🚀 Software & Cloud Engineer | Building Scalable Solutions</h3>
 
 <p align="center">
